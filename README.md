@@ -11,7 +11,7 @@
 <img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />
 <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img align="left" alt="Next.js" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" />
+<img align="left" alt="Next.js" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" /><br><br><br><br>
 <img align="left" alt="React" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />  
 <img align="left" alt="Node.js" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
 <img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
